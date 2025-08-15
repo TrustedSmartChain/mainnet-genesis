@@ -1,18 +1,18 @@
 {
     "denom": "TSC",
-    "totalSupply": 1020, 
+    "totalSupply": 6120, 
     "accounts": [
-        { "email": "jared@webstack.io", "name": "Jared", "address": "tsc1cd3de90g8ktz20qtyc945chwg8pg8xn9trwpz4", "amount": 510, "stake": 500 },
-        { "email": "jared@nodelabs.org", "name": "Jared", "address": "tsc1cd3de90g8ktz20qtyc945chwg8pg8xn9trwpz4", "amount": 510, "stake": 500 },
-        { "email": "aktrustnodes+1@gmail.com", "name": "AK", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "aktrustnodes+2@gmail.com", "name": "AK", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "aktrustnodes+3@gmail.com", "name": "AK", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "billybeachlife@gmail.com", "name": "Billy", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "beachtrustnodes1@gmail.com", "name": "Billy", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "beach.quinsee@gmail.com", "name": "Billy", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "tafnodes@gmail.com", "name": "TAF", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "trust@bryanferrecreative.com", "name": "Bryan", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "admin@mmhm.capital", "name": "Bryan", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 },
-        { "email": "admin@simpll.net", "name": "Bryan", "address": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v", "amount": 510, "stake": 500 }
+        { "email": "jared@webstack.io", "name": "Jared", "address": "tsc1djzkyxqvwcc2pd3n3lcxv9z9m3tjyk80lxr4ws", "amount": 510, "stake": 500 },
+        { "email": "jared@nodelabs.org", "name": "Jared", "address": "tsc1xsm6c2qxxauwh72rydrsa4x5gsyxham8tmj4nl", "amount": 510, "stake": 500 },
+        { "email": "aktrustnodes+1@gmail.com", "name": "AK", "address": "tsc1uvccj85rym8pc0amhpu6n27a2mwfls85cl0xmf", "amount": 510, "stake": 500 },
+        { "email": "aktrustnodes+2@gmail.com", "name": "AK", "address": "tsc13lha9g5pnlsffz00dp3mws8lz996efmcpgkaj3", "amount": 510, "stake": 500 },
+        { "email": "aktrustnodes+3@gmail.com", "name": "AK", "address": "tsc1zhe0z7gt8u9ce2dsrars4rjkmw2mkc90ma3l9j", "amount": 510, "stake": 500 },
+        { "email": "billybeachlife@gmail.com", "name": "Billy", "address": "tsc1rug2g4us2g25uux02fagqnnvja88j9crqx97jv", "amount": 510, "stake": 500 },
+        { "email": "beachtrustnodes1@gmail.com", "name": "Billy", "address": "tsc126k659xr70u329awvpfp993h6s4gz3cthe767w", "amount": 510, "stake": 500 },
+        { "email": "beach.quinsee@gmail.com", "name": "Billy", "address": "tsc13yp4zd89k6e0tpcgwaa69l9vxmke0stvjf4c93", "amount": 510, "stake": 500 },
+        { "email": "tafnodes@gmail.com", "name": "TAF", "address": "tsc1e9d78y5h6elgfklmrt8wm5g7rrhjkrdedunacd", "amount": 510, "stake": 500 },
+        { "email": "trust@bryanferrecreative.com", "name": "Bryan", "address": "tsc16v67n4cg8hcv78d9n9twrw27v700m8etcxkeyx", "amount": 510, "stake": 500 },
+        { "email": "admin@mmhm.capital", "name": "Bryan", "address": "tsc1v8v8v5f8uhmay86gmmeyzmcl3us3avm5ruatug", "amount": 510, "stake": 500 },
+        { "email": "admin@simpll.net", "name": "Bryan", "address": "tsc1p252hke6tdgkpsn4xp98gz0hzcwuggd8mk2gxr", "amount": 510, "stake": 500 }
     ]
 }
