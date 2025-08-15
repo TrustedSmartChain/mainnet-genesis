@@ -3,7 +3,7 @@
 	"moniker": "tsc",
 	"chainId": "tsc_87878-1",
 	"symbol": "TSC",
-	"microDenom": "atsc",
+	"microDenom": "aTSC",
 	"decimals": 18,
 	"minGasPrice": "0.00000001",
 	"baseFee": "0.00000001",
