@@ -1,7 +1,7 @@
 {
   "app_name": "tscd",
-  "app_version": "1.0.0",
-  "genesis_time": "2025-08-15T20:18:17.185091553Z",
+  "app_version": "1.0.1",
+  "genesis_time": "2025-09-05T00:00:00.000000000Z",
   "chain_id": "tsc_87878-1",
   "initial_height": 1,
   "app_hash": null,
@@ -346,12 +346,12 @@
     "feemarket": {
       "block_gas": "0",
       "params": {
-        "base_fee": "0.00000001",
+        "base_fee": "1000000000.000000000000000000",
         "base_fee_change_denominator": 8,
         "elasticity_multiplier": 2,
-        "enable_height": "0",
+        "enable_height": "1",
         "min_gas_multiplier": "0.500000000000000000",
-        "min_gas_price": "0.00000001",
+        "min_gas_price": "1000000000.000000000000000000",
         "no_base_fee": false
       }
     },
