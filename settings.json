@@ -12,5 +12,5 @@
 	"maxSupply": "21000000000000000000000000",
 	"distributionStartDate": "2025-03-29",
 	"monthsInHalvingPeriod": "48",
-	"genesisTxFee": "200000000000000",
+	"genesisTxFee": "200000000000000"
 }
