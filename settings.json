@@ -11,5 +11,6 @@
 	"receivingAddress": "tsc1r53a2v36u7x0ve0gepg60cp2h337hvh45htgen",
 	"maxSupply": "21000000000000000000000000",
 	"distributionStartDate": "2025-03-29",
-	"monthsInHalvingPeriod": "48"
+	"monthsInHalvingPeriod": "48",
+	"genesisTxFee": "200000000000000",
 }
