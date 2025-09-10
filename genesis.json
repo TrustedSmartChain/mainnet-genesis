@@ -1,7 +1,7 @@
 {
   "app_name": "tscd",
-  "app_version": "1.0.0",
-  "genesis_time": "2025-08-15T20:18:17.185091553Z",
+  "app_version": "1.0.2",
+  "genesis_time": "2025-09-10T00:30:00.000000000Z",
   "chain_id": "tsc_87878-1",
   "initial_height": 1,
   "app_hash": null,
@@ -269,15 +269,10 @@
     "distro": {
       "params": {
         "denom": "aTSC",
-        "distributionStartDate": "2025-03-29",
         "distribution_start_date": "2025-03-29",
-        "maxSupply": "21000000000000000000000000",
         "max_supply": "21000000000000000000000000",
-        "mintingAddress": "tsc1f02ftaav4pwz803kp8uckdvy6truv2a2al2mnt",
         "minting_address": "tsc1f02ftaav4pwz803kp8uckdvy6truv2a2al2mnt",
-        "monthsInHalvingPeriod": "48",
         "months_in_halving_period": "48",
-        "receivingAddress": "tsc1r53a2v36u7x0ve0gepg60cp2h337hvh45htgen",
         "receiving_address": "tsc1r53a2v36u7x0ve0gepg60cp2h337hvh45htgen"
       }
     },
