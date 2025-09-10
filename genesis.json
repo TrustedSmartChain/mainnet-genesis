@@ -1,7 +1,7 @@
 {
   "app_name": "tscd",
   "app_version": "1.0.2",
-  "genesis_time": "2025-09-10T00:30:00.000000000Z",
+  "genesis_time": "2025-09-10T22:00:00.000000000Z",
   "chain_id": "tsc_87878-1",
   "initial_height": 1,
   "app_hash": null,
@@ -243,7 +243,7 @@
     "consensus": null,
     "crisis": {
       "constant_fee": {
-        "amount": "1000",
+        "amount": "50000000000000000",
         "denom": "aTSC"
       }
     },
@@ -1173,7 +1173,7 @@
         "burn_vote_veto": true,
         "expedited_min_deposit": [
           {
-            "amount": "2500000000000000000000",
+            "amount": "1000000000000000000000",
             "denom": "aTSC"
           }
         ],
@@ -1341,7 +1341,7 @@
       "params": {
         "denom_creation_fee": [
           {
-            "amount": "10000000",
+            "amount": "10000000000000000000",
             "denom": "aTSC"
           }
         ],
